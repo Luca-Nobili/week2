@@ -32,7 +32,7 @@ int main ()
 		
 	}
 
-	    }while (scelta != 'A' || scelta || 'B' && scelta || 'C' );
+	    }while (scelta != 'A' || scelta != 'B' || scelta != 'C' );// avevo lasciato una & e avevo cancellato il diverso su b e c
 
 
 return 0;
